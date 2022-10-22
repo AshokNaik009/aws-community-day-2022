@@ -4,4 +4,4 @@ title: "About"
 permalink: /
 ---
 
-{% include defaultLanding.html %}
+{% include main.html %}

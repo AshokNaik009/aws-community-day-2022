@@ -4,4 +4,4 @@ permalink: /gametech/
 ---
 
 
-{% include gameContent.html %}
+{% include newmain.html %}
