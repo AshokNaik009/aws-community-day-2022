@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "About"
-permalink: /community-day-2022
+permalink: /
 ---
 
 {% include defaultLanding.html %}
