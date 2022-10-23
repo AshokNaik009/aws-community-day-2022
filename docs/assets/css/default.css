@@ -321,6 +321,7 @@ img.communityday-sponsor-small {
 
 .header.header-transparent .navbar-brand {
     padding: 0;
+    width: 180px;
 }
 
 .header.header-transparent .navbar-brand img {
