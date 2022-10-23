@@ -1,6 +1,0 @@
-title: AWS MENA Community
-highlighter: rouge
-url: https://ashoknaik009.github.io/aws-community-day-2022/
-markdown: kramdown
-plugins:
-    - jekyll-redirect-from
