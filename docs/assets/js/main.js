@@ -9,8 +9,8 @@ jQuery(function ($) {
 
     if ($('.countdown').length > 0) {
         $(".countdown").jCounter({
-            date: '25 September 2020 10:00:00',
-            timezone: "Europe/Paris",
+            date: '10 December 2022 10:00:00',
+            timezone: "Gulf Standard Time",
             fallback: function () {
                 console.log("count finished!")
             }
